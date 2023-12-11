@@ -1,1 +1,1 @@
-print*"hello"
+print("fuck my life")
